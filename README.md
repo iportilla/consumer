@@ -1,7 +1,7 @@
 # OpenAI ChatGPT Introduction
 # About Me
 
-# git.hub.com/iportilla/consumer
+# github.com/iportilla/consumer
 
 Thank you for taking interest in my work in Generative AI.
 
